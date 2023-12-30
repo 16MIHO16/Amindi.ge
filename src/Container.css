@@ -1,0 +1,24 @@
+.carContainer{
+    width: 189px;
+    height: 281px;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.carContainer .carImage{
+    height: 148px;
+    width: 189px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;    
+}
+
+.carContainer .carPrice{
+    font-family: bold;
+}
+
+.carContainer p{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
